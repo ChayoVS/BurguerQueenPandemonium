@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "./static/css/main.5be2da12.chunk.css",
+    "main.js": "./static/js/main.e354aff7.chunk.js",
+    "main.js.map": "./static/js/main.e354aff7.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.af7868da.js",
+    "runtime~main.js.map": "./static/js/runtime~main.af7868da.js.map",
+    "static/css/2.c7ab29bb.chunk.css": "./static/css/2.c7ab29bb.chunk.css",
+    "static/js/2.7e7c923c.chunk.js": "./static/js/2.7e7c923c.chunk.js",
+    "static/js/2.7e7c923c.chunk.js.map": "./static/js/2.7e7c923c.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.ee8b4a3ac43c9d6353466b61252dabf1.js": "./precache-manifest.ee8b4a3ac43c9d6353466b61252dabf1.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.c7ab29bb.chunk.css.map": "./static/css/2.c7ab29bb.chunk.css.map",
+    "static/css/main.5be2da12.chunk.css.map": "./static/css/main.5be2da12.chunk.css.map",
+    "static/media/pandmonium.png": "./static/media/pandmonium.399501f0.png"
+  }
+}
